@@ -1,0 +1,161 @@
+fileFormatVersion: 2
+guid: d43fca1b5a569614caa07e7d11c3233e
+timeCreated: 1522347551
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: chest
+    100002: foot_L
+    100004: foot_R
+    100006: forearm_L
+    100008: forearm_R
+    100010: Gun
+    100012: hand_L
+    100014: hand_R
+    100016: head
+    100018: heel_02_L
+    100020: heel_02_R
+    100022: heel_L
+    100024: heel_R
+    100026: hips
+    100028: //RootNode
+    100030: metarig
+    100032: neck
+    100034: rn-base
+    100036: rn-highpolyeyes
+    100038: rn-male_casualsuit04
+    100040: rn-male_casualsuit06
+    100042: rn-shoes03
+    100044: rn-short03
+    100046: shin_L
+    100048: shin_R
+    100050: shoulder_L
+    100052: shoulder_R
+    100054: spine
+    100056: thigh_L
+    100058: thigh_R
+    100060: toe_L
+    100062: toe_R
+    100064: upper_arm_L
+    100066: upper_arm_R
+    400000: chest
+    400002: foot_L
+    400004: foot_R
+    400006: forearm_L
+    400008: forearm_R
+    400010: Gun
+    400012: hand_L
+    400014: hand_R
+    400016: head
+    400018: heel_02_L
+    400020: heel_02_R
+    400022: heel_L
+    400024: heel_R
+    400026: hips
+    400028: //RootNode
+    400030: metarig
+    400032: neck
+    400034: rn-base
+    400036: rn-highpolyeyes
+    400038: rn-male_casualsuit04
+    400040: rn-male_casualsuit06
+    400042: rn-shoes03
+    400044: rn-short03
+    400046: shin_L
+    400048: shin_R
+    400050: shoulder_L
+    400052: shoulder_R
+    400054: spine
+    400056: thigh_L
+    400058: thigh_R
+    400060: toe_L
+    400062: toe_R
+    400064: upper_arm_L
+    400066: upper_arm_R
+    2300000: Gun
+    3300000: Gun
+    4300000: Gun
+    4300002: rn-male_casualsuit06
+    4300004: rn-shoes03
+    4300006: rn-male_casualsuit04
+    4300008: rn-highpolyeyes
+    4300010: rn-short03
+    4300012: rn-base
+    7400000: Default Take
+    7400002: metarigAction_002
+    9500000: //RootNode
+    13700000: rn-base
+    13700002: rn-highpolyeyes
+    13700004: rn-male_casualsuit04
+    13700006: rn-male_casualsuit06
+    13700008: rn-shoes03
+    13700010: rn-short03
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
